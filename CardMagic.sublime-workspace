@@ -1,0 +1,1016 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"zero",
+				"zero\tVector3.*"
+			],
+			[
+				"identit",
+				"identity\tQuaternion.*"
+			],
+			[
+				"Ontr",
+				"OnTriggerEnter\tMonoBehaviour.*(other)"
+			],
+			[
+				"Destroy",
+				"Destroy\tObject.*(obj, t)"
+			],
+			[
+				"OnColli",
+				"OnCollisionEnter\tCollider.*(collisionInfo)"
+			],
+			[
+				"childco",
+				"childCount\tTransform.*"
+			],
+			[
+				"quantity",
+				"quantityOfObject"
+			],
+			[
+				"Throw",
+				"ThrowObject"
+			],
+			[
+				"raycast",
+				"raycast\tPhysics.*(origin, direction, hitInfo, maxDistance, layerMask, queryTriggerInteraction)"
+			],
+			[
+				"timeT",
+				"timeToTarget"
+			],
+			[
+				"teelport",
+				"teleportZones"
+			],
+			[
+				"previousD",
+				"previousDrawPoint"
+			],
+			[
+				"OnTrigger",
+				"OnTriggerEnter\tCollider.*(other)"
+			],
+			[
+				"angle",
+				"angle\tVector3.*(from, to)"
+			],
+			[
+				"rightController",
+				"rightControllerObj"
+			],
+			[
+				"rightContr",
+				"rightController"
+			],
+			[
+				"SteamVR",
+				"SteamVR_TrackedObject"
+			],
+			[
+				"trackedOb",
+				"trackedObjs"
+			],
+			[
+				"rightCo",
+				"rightController"
+			],
+			[
+				"int",
+				"int\tPersistentListenerMode.*"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"Se",
+				"SetDirection"
+			],
+			[
+				"G",
+				"GameObject"
+			],
+			[
+				"narratio",
+				"narrationOn"
+			],
+			[
+				"Lerp",
+				"Lerper"
+			],
+			[
+				"current",
+				"currentTime"
+			],
+			[
+				"curr",
+				"currentTime"
+			],
+			[
+				"UIS",
+				"UIScrollInfo"
+			],
+			[
+				"scrl",
+				"ScrollInfo"
+			],
+			[
+				"scroll",
+				"ScrollInfo"
+			],
+			[
+				"Get",
+				"GetChild"
+			],
+			[
+				"UI",
+				"UIScrollLimits"
+			],
+			[
+				"UISc",
+				"UIScrollLimits"
+			],
+			[
+				"Play",
+				"PlayUISound"
+			],
+			[
+				"instr",
+				"instructionCurrent"
+			],
+			[
+				"instruc",
+				"instructionCurrent"
+			],
+			[
+				"ins",
+				"instructionCurrent"
+			],
+			[
+				"Toggle",
+				"ToggleUI"
+			],
+			[
+				"play",
+				"Play"
+			],
+			[
+				"pl",
+				"Play"
+			],
+			[
+				"GV",
+				"GvrAudioSource"
+			],
+			[
+				"on",
+				"on_button"
+			],
+			[
+				"but",
+				"button2"
+			],
+			[
+				"butto",
+				"button2"
+			],
+			[
+				"butt",
+				"button1"
+			],
+			[
+				"pla",
+				"playerLocation"
+			],
+			[
+				"as",
+				"assert10"
+			],
+			[
+				"assert",
+				"assert00"
+			],
+			[
+				"Map",
+				"MapSize"
+			],
+			[
+				"ma",
+				"MapSize"
+			],
+			[
+				"score",
+				"scoreDisplay"
+			],
+			[
+				"puzzle",
+				"puzzleSpeed"
+			],
+			[
+				"Pla",
+				"PlayLunarCircle"
+			],
+			[
+				"End",
+				"EndSequence"
+			],
+			[
+				"orb",
+				"orbPos"
+			],
+			[
+				"orbp",
+				"orbPos"
+			],
+			[
+				"or",
+				"orbPoint"
+			],
+			[
+				"fly",
+				"flyPoint"
+			],
+			[
+				"Start",
+				"StartCoroutine"
+			],
+			[
+				"curre",
+				"currentScore"
+			],
+			[
+				"curren",
+				"currentBest"
+			],
+			[
+				"set",
+				"SetActive"
+			],
+			[
+				"restart",
+				"restartUI"
+			],
+			[
+				"Set",
+				"SetActive"
+			],
+			[
+				"Generate",
+				"GeneratePuzzleSequence"
+			],
+			[
+				"check",
+				"checkY"
+			],
+			[
+				"node",
+				"nodeMap"
+			],
+			[
+				"cur",
+				"currentNode"
+			],
+			[
+				"closed",
+				"closedSet"
+			],
+			[
+				"open",
+				"openSet"
+			],
+			[
+				"Math",
+				"Mathf"
+			],
+			[
+				"percen",
+				"percentX"
+			],
+			[
+				"math",
+				"Mathf"
+			],
+			[
+				"perce",
+				"percentY"
+			],
+			[
+				"end",
+				"endNode"
+			],
+			[
+				"Sort",
+				"SortDown"
+			],
+			[
+				"heap",
+				"HeapIndex"
+			],
+			[
+				"child",
+				"childIndexRight"
+			],
+			[
+				"ch",
+				"childIndexRight"
+			],
+			[
+				"parent",
+				"parentIndex"
+			],
+			[
+				"hea",
+				"HeapIndex"
+			],
+			[
+				"Heap",
+				"HeapIndex"
+			],
+			[
+				"p",
+				"parent"
+			],
+			[
+				"start",
+				"startNode"
+			],
+			[
+				"player",
+				"playerCoord"
+			],
+			[
+				"neigh",
+				"neighbor"
+			],
+			[
+				"new",
+				"newMovementCostToNeighbor"
+			],
+			[
+				"nei",
+				"neighbor"
+			],
+			[
+				"get",
+				"GetDistance"
+			],
+			[
+				"dst",
+				"dstX"
+			],
+			[
+				"g",
+				"gCost"
+			],
+			[
+				"Ob",
+				"ObjectiveInit"
+			],
+			[
+				"obj",
+				"objective_init"
+			],
+			[
+				"TYpe",
+				"TypeListPrint"
+			],
+			[
+				"type1",
+				"type1Holder"
+			],
+			[
+				"retu",
+				"returnInput"
+			],
+			[
+				"re",
+				"returnInput"
+			],
+			[
+				"auto",
+				"automataRule"
+			],
+			[
+				"sec",
+				"secondsBetweenGen"
+			],
+			[
+				"vect",
+				"Vector2"
+			],
+			[
+				"vec",
+				"Vector2"
+			],
+			[
+				"pick",
+				"pickupParent"
+			],
+			[
+				"vector",
+				"Vector3"
+			],
+			[
+				"On",
+				"OnGameOver"
+			],
+			[
+				"decre",
+				"decreasingGenTime"
+			],
+			[
+				"dec",
+				"decreaseGenBy"
+			],
+			[
+				"decr",
+				"decreasingGenTime"
+			],
+			[
+				"halfscr",
+				"halfScreenWidth"
+			],
+			[
+				"half",
+				"halfAsteroidSize"
+			],
+			[
+				"retur",
+				"returnTile"
+			],
+			[
+				"R",
+				"Range"
+			],
+			[
+				"type2",
+				"type2Holder"
+			],
+			[
+				"ret",
+				"returnList"
+			],
+			[
+				"type",
+				"typeDict"
+			],
+			[
+				"typ",
+				"typeDict"
+			],
+			[
+				"Current",
+				"currentRooms"
+			],
+			[
+				"edge",
+				"edgeTiles"
+			],
+			[
+				"pickup",
+				"pickupParent"
+			],
+			[
+				"hazard",
+				"hazardParent"
+			],
+			[
+				"Coord",
+				"CoordToWorldPoint"
+			],
+			[
+				"is",
+				"is2D"
+			],
+			[
+				"gene",
+				"Generate2DColliders"
+			],
+			[
+				"gradient",
+				"gradientAcc"
+			],
+			[
+				"grai",
+				"gradientStep"
+			],
+			[
+				"for",
+				"forceAccessFromMain"
+			],
+			[
+				"roomList",
+				"roomListA"
+			],
+			[
+				"rooml",
+				"roomListB"
+			],
+			[
+				"fo",
+				"forceAccessFromMain"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Zoilo/Documents/Top_Cat_PreAlpha/Assets/Editor/OverworldMapTests.cs",
+		"/C/Users/Zoilo/Documents/zoilomercedes_resume/notes_to_reviewer.txt",
+		"/C/Users/Zoilo/Documents/zoilomercedes_coverletter/notes_to_reviewer.txt",
+		"/F/MMKids/english.xml",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/Assets/Scripts/ControllerInput.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/Assets/SteamVR/InteractionSystem/Core/Scripts/Util.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/Assets/Scripts/ArcRenderer.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/Assets/SteamVR/Scripts/SteamVR_Controller.cs",
+		"/C/Users/Zoilo/Documents/Top_Cat_PreAlpha/Assets/scripts/controller.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/readme.md",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/Assets/Rotator.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/ZoiloMercedes_RubeGoldberg/README.md",
+		"/C/Users/Zoilo/Desktop/RubeGoldberg_S/README.md",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/Assets/SteamVR/readme.txt",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/Assets/Scripts/CollectibleSetter.cs",
+		"/C/Users/Zoilo/Documents/coroutinetest/Assets/ExampleClass.cs",
+		"/C/Users/Zoilo/Documents/coroutinetest/Assets/Coroutine.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/Assets/SteamVR/Scripts/SteamVR_LoadLevel.cs",
+		"/C/Users/Zoilo/Desktop/programming notes/delegates_actions_funcs.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/Assets/Scripts/WinCondition.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/Assets/WinCondition.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/Assets/TargetAction.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/Assets/EndTargetAction.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/Assets/Scripts/BallActions.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/Assets/Scripts/ObjectMenuManager.cs",
+		"/C/Users/Zoilo/Documents/Top_Cat_PreAlpha/A_star_debug.txt",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg - Copy/Assets/.gitignore",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/Assets/Scripts/GrabReleaseActions.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/Assets/Scripts/GrabThrowActions.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/arcdebug.txt",
+		"/C/Users/Zoilo/Documents/SteamVR_test/Assets/HandInteraction.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/High-Immersion-Starter-Project-master/Assets/Scripts/ObjectMenuManager.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/High-Immersion-Starter-Project-master/Assets/Scripts/.gitignore",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/High-Immersion-Starter-Project-master/Assets/Scripts/ArcRenderer.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/High-Immersion-Starter-Project-master/Assets/Scripts/LeftControllerInput.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/High-Immersion-Starter-Project-master/Assets/Scripts/RightControllerInput.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/High-Immersion-Starter-Project-master/Assets/Scripts/readme.md",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/Assets/Scripts/.gitignore",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/RubeGoldberg.sublime-project",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/LICENSE",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/RubeGoldberg/arcdebug2.txt",
+		"/C/Users/Zoilo/.gitignore",
+		"/C/Users/Zoilo/.bashrc",
+		"/C/Program Files/Git/etc/profile.d/git-prompt.sh",
+		"/C/Users/Zoilo/.bash_profile",
+		"/C/Users/Zoilo/Documents/SteamVR_test/Assets/ObjectMenuManager.cs",
+		"/C/Users/Zoilo/AppData/Local/Temp/7zO4CB02B1E/Read Me.txt",
+		"/C/Users/Zoilo/Desktop/VRting.txt",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/High-Immersion-Starter-Project-master/Assets/Scripts/arcdebug.txt",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/High-Immersion-Starter-Project-master/Assets/cuberotation.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/High-Immersion-Starter-Project-master/Assets/targetMove.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/High-Immersion-Starter-Project-master/arcdebug2.txt",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/High-Immersion-Starter-Project-master/arcdebug.txt",
+		"/C/Users/Zoilo/Documents/eulerAngle_practice/Assets/eulerAngles.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/High-Immersion-Starter-Project-master/Assets/SteamVR/Scripts/SteamVR_Controller.cs",
+		"/C/Users/Zoilo/Desktop/programming notes/delegates_lambda_expressions.cs",
+		"/C/Users/Zoilo/Downloads/12_Garbage_Collector_Optimization.cs",
+		"/C/Users/Zoilo/Documents/HackerRank/HR_balanced_brackets.cpp",
+		"/C/Users/Zoilo/Documents/SteamVR_test/Assets/HandControllerInput.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/High-Immersion-Starter-Project-master/Assets/Scripts/ControllerInputManager.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/High-Immersion-Starter-Project-master/Assets/SteamVR/Scripts/SteamVR_ControllerManager.cs",
+		"/C/Users/Zoilo/Documents/SteamVR_test/Assets/.gitignore",
+		"/C/Users/Zoilo/Dropbox/code/HR_trie.cpp",
+		"/C/Users/Zoilo/Dropbox/code/HR_bomberman.cpp",
+		"/C/Users/Zoilo/Documents/HackerRank/readme.md",
+		"/C/Users/Zoilo/Dropbox/code/HR_ransom_note.cpp",
+		"/C/Users/Zoilo/Documents/Overwatch/Settings/Settings_v0.ini",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/High-Immersion-Starter-Project-master/.gitignore",
+		"/D/Documents/VR_projects/Puzzler_VR/vrnd-puzzler-starter-project-v6.0.0/Puzzler/Assets/Scripts/LightUp.cs",
+		"/D/Documents/VR_projects/Puzzler_VR/vrnd-puzzler-starter-project-v6.0.0/Puzzler/Assets/Scripts/GameLogic.cs",
+		"/D/Documents/VR_projects/Puzzler_VR/vrnd-puzzler-starter-project-v6.0.0/Puzzler/Assets/Scripts/SelectorAction.cs",
+		"/C/Users/Zoilo/Documents/Top_Cat_PreAlpha/Assets/scripts/MapGen.cs",
+		"/C/Users/Zoilo/Desktop/rube goldberg VR/High-Immersion-Starter-Project-master/Assets/Scripts/RubeGoldberg.sublime-project",
+		"/C/Users/Zoilo/Documents/SteamVR_test/Assets/SteamVR_practice.sublime-project.meta",
+		"/C/Python/Python36/Lib/site-packages/pip/pip.ini",
+		"/C/Users/Zoilo/.ssh/id_rsa.pub",
+		"/C/Users/Zoilo/Documents/pong_mercedes/Assets/ballMove.cs",
+		"/C/Users/Zoilo/Documents/Top_Cat_PreAlpha/Assets/scripts/Pathfinding.cs",
+		"/C/Users/Zoilo/Documents/Top_Cat_PreAlpha/Assets/scripts/MeshGen.cs",
+		"/C/Users/Zoilo/Documents/Top_Cat_PreAlpha/Assets/testing/LocationDisplay.cs",
+		"/C/Users/Zoilo/Documents/Museum/Assets/Scripts/FOVShrink.cs",
+		"/C/Users/Zoilo/Documents/Museum/Assets/GoogleVR/Scripts/Audio/GvrAudioSource.cs",
+		"/C/Users/Zoilo/Desktop/Museum_master/Museum/README.txt",
+		"/C/Users/Zoilo/Documents/Museum/Assets/Scripts/UIHandler.cs",
+		"/C/Users/Zoilo/Desktop/Puzzler_VR/vrnd-puzzler-starter-project-v6.0.0/Puzzler/Assets/Scripts/GameLogic.cs",
+		"/C/Users/Zoilo/Documents/PythonDev/practice/settings/__init__.py",
+		"/C/Users/Zoilo/Documents/PythonDev/practice/Scripts/django-admin.py",
+		"/C/Users/Zoilo/AppData/Local/Temp/7zOC0A74FBF/README.txt",
+		"/C/Users/Zoilo/AppData/Local/Temp/7zOC4DD9061/README.txt",
+		"/C/Users/Zoilo/Documents/Museum/Assets/Scripts/FOVShrink.cs.cs",
+		"/C/Users/Zoilo/Documents/Museum/Assets/Scripts/TreeDistributer.cs",
+		"/C/Users/Zoilo/Documents/pong_mercedes/Assets/PaddleController.cs",
+		"/C/Users/Zoilo/Documents/pong_mercedes/Assets/SideCollide.cs",
+		"/C/Users/Zoilo/Desktop/Puzzler_VR/vrnd-puzzler-starter-project-v6.0.0/Puzzler/Assets/GoogleVR/Scripts/UI/GvrReticlePointer.cs",
+		"/C/Users/Zoilo/Documents/Top_Cat_PreAlpha/Assets/testing/OverworldMapTests.cs",
+		"/C/Users/Zoilo/Desktop/MY code/namegame.py",
+		"/C/Users/Zoilo/Desktop/MY code/turtle_basics.py",
+		"/C/Users/Zoilo/Desktop/first_program.py",
+		"/C/Users/Zoilo/Documents/pykemon/pokemon_type_engine.py",
+		"/C/Users/Zoilo/Documents/Top_Cat_PreAlpha/Assets/scripts/Heap.cs",
+		"/C/Users/Zoilo/Documents/Top_Cat_PreAlpha/Assets/scripts/Coord.cs",
+		"/C/Users/Zoilo/Documents/path_tings/Assets/Grid.cs",
+		"/C/Users/Zoilo/Documents/Top_Cat_PreAlpha/Assets/scripts/ObjectiveTracker.cs",
+		"/C/Users/Zoilo/Documents/procedural_generation_trial/Assets/scripts/controller.cs",
+		"/C/Users/Zoilo/Desktop/Puzzler_VR/vrnd-puzzler-starter-project-v6.0.0/Puzzler/Assets/Scripts/LightUp.cs",
+		"/C/Users/Zoilo/Desktop/Puzzler_VR/vrnd-puzzler-starter-project-v6.0.0/Puzzler/Assets/GoogleVR/Scripts/Controller/GvrPointerManager.cs",
+		"/D/Downloads/Adobe Premiere Pro CC 2015 v9.0 + Crack/ReadMe.txt",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Zoilo/Desktop/Puzzler_VR/vrnd-puzzler-starter-project-v6.0.0/Puzzler/Assets/GoogleVR/Scripts/Audio/GvrAudioSource.cs",
+		"/C/Users/Zoilo/Desktop/Puzzler_VR/vrnd-puzzler-starter-project-v6.0.0/Puzzler/Assets/GoogleVR/Scripts/Audio/GvrAudio.cs",
+		"/C/Users/Zoilo/Desktop/updated_gamelogic.cs",
+		"/C/Users/Zoilo/Desktop/Puzzler_VR/vrnd-puzzler-starter-project-v6.0.0/Puzzler/Assets/Scripts/SelectorAction.cs",
+		"/C/Users/Zoilo/Desktop/Puzzler_VR/vrnd-puzzler-starter-project-v6.0.0/Puzzler/Assets/SelectorAnim.cs",
+		"/C/Users/Zoilo/Desktop/Puzzler_VR/vrnd-puzzler-starter-project-v6.0.0/Puzzler/Assets/SelectorAction.cs",
+		"/C/Users/Zoilo/Desktop/Puzzler_VR/vrnd-puzzler-starter-project-v6.0.0/Puzzler/Assets/Plugins/Pixelplacement/iTween/ReadMe!/ReadMe!.txt",
+		"/C/Users/Zoilo/AppData/Local/Temp/7zO49F5DBD7/draconian.txt",
+		"/C/Users/Zoilo/Documents/path_tings/Assets/Pathfinding.cs",
+		"/C/Users/Zoilo/Documents/Top_Cat_PreAlpha/Debug_Logs/InitPathing_coords.txt",
+		"/C/Users/Zoilo/Documents/Top_Cat_PreAlpha/Debug_Logs/pathfinding_log.txt",
+		"/C/Users/Zoilo/Documents/asteroid_flight/Assets/scripts/Difficulty.cs",
+		"/C/Users/Zoilo/Documents/HeapMine.cs",
+		"/C/Users/Zoilo/Documents/pathfinding_trial/Assets/Scripts/Node.cs",
+		"/C/Users/Zoilo/Documents/pathfinding_trial/Assets/Scripts/Grid.cs",
+		"/C/Users/Zoilo/Documents/pathfinding_trial/Assets/Scripts/Pathfinding.cs",
+		"/C/Users/Zoilo/Documents/Top_Cat_PreAlpha/Assets/scripts/cameraMovement.cs",
+		"/C/Users/Zoilo/Documents/Top_Cat_PreAlpha/Assets/scripts/StartButton.cs",
+		"/C/Users/Zoilo/Documents/asteroid_flight/Assets/scripts/AsteroidGen.cs",
+		"/C/Users/Zoilo/Documents/Top_Cat_PreAlpha/Assets/scripts/.gitignore"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"uiselector",
+			"target",
+			"targetobject",
+			"line",
+			"OMUI.GetChild(currentObject).SetActive(true);",
+			"OMUI.GetChild(currentObject).SetActive(false);",
+			"ui",
+			"spawn",
+			"event",
+			"menu",
+			"colorindicators",
+			"arcMat",
+			"arcmat",
+			"material",
+			"hit.",
+			"loadlevel",
+			"WinCon",
+			"buttonmask",
+			"buttonmast",
+			"hairtrigger",
+			"trigger",
+			"objects.Count",
+			"objectprefablist",
+			"objectList",
+			"aimer",
+			"teleportloca",
+			"telemask",
+			"collider",
+			"timetotarget",
+			"resettime",
+			"canvas",
+			"DrawPath()",
+			"velocity",
+			"using",
+			"transform.p",
+			"player",
+			"velocity",
+			"transform.parent",
+			"forward",
+			"forward'",
+			"print",
+			";\n",
+			"transform.up",
+			"0",
+			"transform.up",
+			"height",
+			"Vector3.up",
+			"transform.up",
+			"target.localPosition",
+			"transform.localPosition",
+			"transform.position",
+			"target.position",
+			"arc",
+			"Vector3.up",
+			"transform.up",
+			"Vector3.up",
+			"transform.up",
+			"Vector3.up",
+			"transform.position",
+			"target.position",
+			"sign",
+			"radianangle",
+			"velocity",
+			"gravity",
+			"h",
+			"target.position",
+			"ball",
+			"25f",
+			"arcrend",
+			"device",
+			"01f",
+			"\n\t",
+			"aim",
+			"rightController",
+			"player",
+			"leftController",
+			"player",
+			"arcrenderer",
+			"left",
+			"filler",
+			"mesh",
+			"euler",
+			"6",
+			"angle",
+			"buttonmask",
+			"getpress",
+			"input",
+			"placeobject",
+			"place",
+			"uiscroll",
+			"toggleuioptio",
+			"toggleui",
+			"narration",
+			"instruct",
+			"play()",
+			"gvr",
+			"play",
+			"sound",
+			"colli",
+			"currentbest",
+			"createsoundobject",
+			"createsound",
+			"puzzlespeed",
+			"scorekeep",
+			"currentscore",
+			".text",
+			"generatepuzz",
+			"startpuzzle",
+			"orbs",
+			"movetime",
+			"orbs",
+			"currentdispla",
+			"puzzleend",
+			"success",
+			"update",
+			"movespeed",
+			"coordfromworldpoint",
+			"mapGen.CoordFromWorldPoint",
+			"mapGen",
+			"mapgen.coordfromworldpoint",
+			"CoordFromWorldPoint",
+			"CoordToWorldPoint",
+			"Node",
+			"coordtoworld",
+			"coordfromwor",
+			"mapgen.coord",
+			"text",
+			"placeobjec"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"OMUI.GetChild(currentObject).gameObject.SetActive(true);",
+			"OMUI.GetChild(currentObject).gameObject.SetActive(false);",
+			"materialIndicators",
+			"arcRend",
+			"winCon",
+			"objects.Length",
+			"objectPrefabs",
+			"objects",
+			"target",
+			"objectMenu",
+			"ArcArray()",
+			"Vector3.up",
+			"h",
+			"transform.up",
+			"Vector3.up",
+			"target.position",
+			"transform.position",
+			"transform.localPosition",
+			"target.localPosition",
+			"transform.up",
+			"Vector3.up",
+			"transform.up",
+			"Vector3.up",
+			"transform.up",
+			"target.localPosition",
+			"g",
+			"target",
+			"transform",
+			"controller",
+			"moveTime",
+			"MapGen.CoordFromWorldPoint",
+			"Coord.CoordFromWorldPoint",
+			"Coord.CoordToWorldPoint",
+			"Coord",
+			"print(logger(",
+			"vector<string>",
+			"O",
+			"'",
+			"\"%username%\":f",
+			"halfScreenHeight",
+			"tile",
+			"GetPlaceCoord",
+			"GenerateMapObject",
+			"coin"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 31.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "CardMagic.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
